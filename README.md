@@ -43,6 +43,11 @@ These exercises help demonstrate how basic logic structures can be used to contr
 
 ## Option 1 - Google Colab (Recommended)
 
+1. Open the notebook in Google Colab
+2. Run each cell in order
+
+## Option 2 - Jupyter Notebook
+
 1. Install Jupyter Notebook if not already installed:
 ```
 pip install notebook
@@ -59,7 +64,7 @@ jupyter notebook
 ```
 .
 │
-├── LICENCE
+├── LICENSE
 ├── README.md
 └── Week_2_Workshop_Code.ipynb
 ```
